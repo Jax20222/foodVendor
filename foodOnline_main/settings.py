@@ -152,4 +152,4 @@ EMAIL_HOST_PASSWORD = config('EMAIL_HOST_PASSWORD')
 EMAIL_USE_TLS = True
 DEFAULT_FROM_EMAIL = 'foodOnline Marketplace <foody.vendor@gmail.com>'
 
-#GOOGLE_API_KEY = 
+GOOGLE_API_KEY = 'AIzaSyCZKDwFJQhgkVDnXIeMZ0J9TBd6oPExoho'
